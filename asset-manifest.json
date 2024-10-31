@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wizddb.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/wizddb.github.io/static/js/main.e08d838e.js",
+    "static/js/453.d19ec898.chunk.js": "/wizddb.github.io/static/js/453.d19ec898.chunk.js",
+    "static/media/logo.svg": "/wizddb.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wizddb.github.io/index.html",
+    "main.f855e6bc.css.map": "/wizddb.github.io/static/css/main.f855e6bc.css.map",
+    "main.e08d838e.js.map": "/wizddb.github.io/static/js/main.e08d838e.js.map",
+    "453.d19ec898.chunk.js.map": "/wizddb.github.io/static/js/453.d19ec898.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e08d838e.js"
+  ]
+}
